@@ -1,21 +1,21 @@
 CACHE MANIFEST
+# Version 2026-11-03-02
 # Copyright (c) 2026 mansoor0x | 1_X @ZeroMan
-# refreshed branding and resource hashes
-
-cache.html #bf2001e3cdacdc54d3b265afa6a02e72
-RIGHTS.txt #152ee646b09a1ff416f7157ee118257d
-index.html #cb6c28b0fc7d948e3593089e13dcf866
-exploit.html #31f9334a25e938e8fec73981a247f2c8
-launch.js #3c5b574c2e59fd4983bc7d577de94a28
-exploit.js #3066d185ac0702758fabb4bd95b01862
-core.js #66f5fb57401bfb79935e825677517cef
-mem.js #83123d6ab5916e499d841f199785962e
-int64.js #c0c0e71b147bdad674d0221caf682c24
-ps4_offsets.js #99895762ae437e9e1ca5996f17bb917c
-afterglow.js #1c8d74c968025b58eb5c5fb04f504769
-oup/1400.bin #615f275b96831cc04173757db39e93f0
-oup/1352.bin #adfb9771904f71cd1f5a82cbded8ac46
-goldhen.bin #39452f5e1c305ac9efcb4745eef7958b
+CACHE:
+./
+./index.html
+./cache.html
+./exploit.html
+./launch.js
+./exploit.js
+./core.js
+./mem.js
+./int64.js
+./ps4_offsets.js
+./afterglow.js
+./goldhen.bin
+./oup/1352.bin
+./oup/1400.bin
 
 NETWORK:
 *
